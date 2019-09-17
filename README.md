@@ -9,11 +9,14 @@ Windows users can download the installer [here](https://github.com/king-alpha/sh
 
 <img src="https://i.imgur.com/SdCSIiD.png"/>
 
-After the host button is clicked
+## After the host button is clicked
+
 <img src="https://i.imgur.com/Ak91sB0.png"/>
 
-Afer theconnect button is clicked
+## Afer the connect button is clicked
+
 <img src="https://i.imgur.com/UXtZm27.png"/>
 
-You just need to share a file, all those connected can download it.
+## You just need to share a file, all those connected can download it.
+
 <img src="https://i.imgur.com/JvvWgCL.png"/>
