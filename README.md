@@ -5,4 +5,15 @@ This repo is just for distributing the executables, actual source code is privat
 
 Windows users can download the installer [here](https://github.com/king-alpha/share-dist/releases/download/v1.0.1/share-Setup-1.0.1.exe)
 
-<img src="https://imgur.com/a/2myfSXX"/>
+<img src="https://i.imgur.com/FnETFbC.png"/>
+
+<img src="https://i.imgur.com/SdCSIiD.png"/>
+
+After the host button is clicked
+<img src="https://i.imgur.com/Ak91sB0.png"/>
+
+Afer theconnect button is clicked
+<img src="https://i.imgur.com/UXtZm27.png"/>
+
+You just need to share a file, all those connected can download it.
+<img src="https://i.imgur.com/JvvWgCL.png"/>
