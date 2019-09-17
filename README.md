@@ -7,6 +7,8 @@ Windows users can download the installer [here](https://github.com/king-alpha/sh
 
 <img src="https://i.imgur.com/FnETFbC.png"/>
 
+## automatically notifies you when you are not connected to any network
+
 <img src="https://i.imgur.com/SdCSIiD.png"/>
 
 ## After the host button is clicked
